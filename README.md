@@ -1,2 +1,2 @@
 # auravocab
-Spanish vocabulary spaced repetition learner from Fuentes' "Aura"
+Spaced repetition Spanish vocabulary learner from Fuentes' *Aura*.
